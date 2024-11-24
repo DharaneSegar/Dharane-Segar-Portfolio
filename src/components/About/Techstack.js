@@ -15,7 +15,8 @@ import {
   SiBootstrap,
   SiKotlin,
   SiFlutter,
-  SiDocker
+  SiDocker,
+  SiSpringboot
 } from "react-icons/si";
 import { FaReact } from "react-icons/fa";
 import { SiNodedotjs } from "react-icons/si";
@@ -31,6 +32,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
       <DiJava  style={{  color: "#f89820" }} /> {/* Java logo */}
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+      <SiSpringboot style={{  color: "#6DB33F" }} /> {/* Java logo */}
       </Col>
       <Col xs={4} md={2} className="tech-icons">
       <DiPython  style={{  color: "#3776AB" }} /> {/* Java logo */}
