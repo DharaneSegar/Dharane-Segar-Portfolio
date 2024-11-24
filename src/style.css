@@ -190,6 +190,11 @@ button:focus {
     padding: 1rem 2rem !important;
     font-size: 1.4rem !important;
     background-color: #181a27 !important;
+    align-items: center;
+    justify-content: center; /* Center content horizontally */
+  }
+  .navbar-toggler {
+    margin: 0 auto; /* Center the icon */
   }
   .navbar-nav .nav-item a::after {
     display: none !important;
@@ -265,7 +270,6 @@ button:focus {
   background-position: top center;
   background-repeat: no-repeat;
   padding-bottom: 30px !important;
-  padding-top: 10px !important;
 }
 
 .home-content {
