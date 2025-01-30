@@ -126,7 +126,7 @@ function NavBar() {
     <AiOutlineMail />
   </Nav.Link>
   <Nav.Link
-    href="https://www.instagram.com/dha.ra.ne?igsh=cW5hbWY4dXhtdjl2&utm_source=qr"
+    href="https://www.instagram.com/dha.ra.ne"
     target="_blank"
     rel="noreferrer"
   >

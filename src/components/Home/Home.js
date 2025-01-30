@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import homeLogo from "../../Assets/Dharane.jpg";
+import homeLogo from "../../Assets/Dharane.png";
 import Type from "./Type";
 
 function Home() {
