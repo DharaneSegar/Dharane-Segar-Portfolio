@@ -22,7 +22,6 @@ function ResumeNew() {
           <Button
             variant="primary"
             href={pdf}
-            target="_blank"
             download="Dharane_Segar_Resume.pdf"
             style={{ maxWidth: "250px" }}
           >
