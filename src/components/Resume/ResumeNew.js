@@ -23,6 +23,7 @@ function ResumeNew() {
             variant="primary"
             href={pdf}
             target="_blank"
+            download="Dharane_Segar_CV.pdf"
             style={{ maxWidth: "250px" }}
           >
             <AiOutlineDownload />
@@ -36,9 +37,7 @@ function ResumeNew() {
           </Document>
         </Row>
 
-        <Row style={{ justifyContent: "center", position: "relative" }}>
-          
-        </Row>
+        <Row style={{ justifyContent: "center", position: "relative" }}></Row>
       </Container>
     </div>
   );
