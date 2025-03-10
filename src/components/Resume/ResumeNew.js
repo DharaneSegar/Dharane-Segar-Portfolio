@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Container, Row } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
-import pdf from "../../Assets/../Assets/Dharane_CV.pdf";
+import pdf from "../../Assets/../Assets/Dharane_Resume.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
@@ -23,7 +23,7 @@ function ResumeNew() {
             variant="primary"
             href={pdf}
             target="_blank"
-            download="Dharane_Segar_CV.pdf"
+            download="Dharane_Segar_Resume.pdf"
             style={{ maxWidth: "250px" }}
           >
             <AiOutlineDownload />
