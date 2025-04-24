@@ -13,7 +13,8 @@ import {
   AiFillInstagram,
   AiOutlineMail
 } from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
+import { FaLinkedinIn,FaLayerGroup } from "react-icons/fa";
+
 import { CgFileDocument } from "react-icons/cg";
 
 function NavBar() {
@@ -74,6 +75,16 @@ function NavBar() {
                 onClick={() => updateExpanded(false)}
               >
                 <AiOutlineBook style={{ marginBottom: "2px" }} /> Education
+              </Nav.Link>
+            </Nav.Item>
+
+            <Nav.Item>
+              <Nav.Link
+                as={Link}
+                to="/stack"
+                onClick={() => updateExpanded(false)}
+              >
+                <FaLayerGroup style={{ marginBottom: "2px" }} /> Stack
               </Nav.Link>
             </Nav.Item>
 
