@@ -14,6 +14,7 @@ import Medpro from "../../Assets/Projects/MedPro.webp";
 import BioMentor from "../../Assets/Projects/BioMentor.jpg";
 import Chatbot from "../../Assets/Projects/Chatbot.jpg";
 import Cloud from "../../Assets/Projects/Cloud.jpg";
+import NatureAR from "../../Assets/Projects/NatureAR.png";
 
 function Projects() {
   return (
@@ -44,6 +45,17 @@ function Projects() {
             title="CTSE Module Lecture Chat Bot using Gemini RAG Architecture"
             description="Developed an AI-powered chatbot that answers student queries based on CTSE lecture materials using Retrieval-Augmented Generation (RAG). Leveraged FAISS for semantic search and Google's Gemini 2.0 Flash for grounded, context-aware response generation. Built in Google Colab with Python, this academic assistant ensures accuracy, transparency, and curriculum alignment."
             ghLink="https://github.com/DharaneSegar/CTSE-Lecture-Chat-Bot"
+          />
+        </Col>
+
+        <Col md={4} className="project-card">
+          <ProjectCard
+            imgPath={NatureAR}
+            isBlog={false}
+            title="Marker-Based Nature AR Experience with A-Frame & AR.js"
+            description="Contributed to a WebAR group project themed on nature using A-Frame and AR.js. Developed an interactive scene simulating the formation of a rainbow during a light drizzle, triggered by a printed flower marker. The scene includes animated 3D models, ambient sounds, custom drizzle effects, and a realistic light setup. Highlights include spatial sound control, bee flight animations, and synchronized character movement, all enhancing user immersion in a natural storytelling experience."
+            ghLink="https://github.com/DharaneSegar/Nature-AR-Experience" // replace with actual repo if available
+            demoLink="https://mysliit-my.sharepoint.com/:f:/g/personal/it21264634_my_sliit_lk/Eg_EjAMg3FhItRjTVw5gLncBc4MY9dk4VSxgoIF_C0_rxw?e=bn6yWA"
           />
         </Col>
 
