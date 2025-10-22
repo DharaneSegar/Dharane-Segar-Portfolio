@@ -35,7 +35,7 @@ function Education() {
                       width: "fit-content",
                     }}
                   >
-                    <li>GFirst Class Honours</li>
+                    <li>First Class Honours</li>
                     <li>CGPA: 3.85 / 4.0</li>
                     <li>Gold Medal for Academic Excellence</li>
                     <li>Best Performance Award in Software Engineering</li>
