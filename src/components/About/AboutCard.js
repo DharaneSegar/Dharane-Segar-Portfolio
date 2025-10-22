@@ -21,11 +21,20 @@ function AboutCard() {
             <br />
             <br />I have been recognized with several academic achievements,
             including:
-            <ul className="purple" style={{ textAlign: "center"}}>
-              <li>Gold Medal for Academic Excellence</li>
-              <li>Best Performance Award in Software Engineering</li>
+            <ul
+              className="purple"
+              style={{
+                listStyle: "none",
+                display: "inline-block",
+                textAlign: "left",
+                padding: 0,
+              }}
+            >
+              <li>🏅 Gold Medal for Academic Excellence</li>
+              <li>💻 Best Performance Award in Software Engineering</li>
               <li>
-                Multiple Dean’s List Awards for outstanding academic performance
+                📜 Multiple Dean’s List Awards for outstanding academic
+                performance
               </li>
             </ul>
             <br />
