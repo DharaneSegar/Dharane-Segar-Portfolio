@@ -22,13 +22,26 @@ function Education() {
               title="Sri Lanka Institute of Information Technology (SLIIT)"
               description={
                 <>
-                  BSc (Hons) in Information Technology Specializing in Software
-                  Engineering — First Class Honours.
-                  <br />
-                  CGPA: 3.85 / 4.0
-                  <br />
-                  • Gold Medal for Academic Excellence
-                  <br />• Best Performance Award in Software Engineering
+                  <p>
+                    BSc (Hons) in Information Technology - Specialization in
+                    Software Engineering
+                    <br />
+                    <strong>First Class Honours</strong>
+                    <br />
+                    <strong>CGPA:</strong> 3.85 / 4.0
+                  </p>
+                  <ul
+                    style={{
+                      listStylePosition: "inside",
+                      textAlign: "left",
+                      margin: "8px auto 0",
+                      padding: 0,
+                      width: "fit-content",
+                    }}
+                  >
+                    <li>Gold Medal for Academic Excellence</li>
+                    <li>Best Performance Award in Software Engineering</li>
+                  </ul>
                 </>
               }
             />

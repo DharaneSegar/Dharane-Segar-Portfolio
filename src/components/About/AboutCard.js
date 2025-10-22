@@ -26,7 +26,7 @@ function AboutCard() {
               style={{
                 listStyle: "none",
                 display: "inline-block",
-                textAlign: "left",
+                textAlign: "center",
                 padding: 0,
               }}
             >
@@ -37,6 +37,7 @@ function AboutCard() {
                 performance
               </li>
             </ul>
+            <br />
             <br />
             From August 2023 to January 2024, I worked as a{" "}
             <span className="purple">Software Engineer Intern</span> at{" "}
