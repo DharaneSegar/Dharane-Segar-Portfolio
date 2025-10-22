@@ -21,7 +21,7 @@ function AboutCard() {
             <br />
             <br />I have been recognized with several academic achievements,
             including:
-            <ul style={{ textAlign: "left" }}>
+            <ul className="purple" style={{ textAlign: "center"}}>
               <li>Gold Medal for Academic Excellence</li>
               <li>Best Performance Award in Software Engineering</li>
               <li>
