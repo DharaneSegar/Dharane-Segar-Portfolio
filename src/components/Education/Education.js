@@ -25,10 +25,6 @@ function Education() {
                   <p>
                     BSc (Hons) in Information Technology - Specialization in
                     Software Engineering
-                    <br />
-                    <strong>First Class Honours</strong>
-                    <br />
-                    <strong>CGPA:</strong> 3.85 / 4.0
                   </p>
                   <ul
                     style={{
@@ -39,6 +35,8 @@ function Education() {
                       width: "fit-content",
                     }}
                   >
+                    <li>GFirst Class Honours</li>
+                    <li>CGPA: 3.85 / 4.0</li>
                     <li>Gold Medal for Academic Excellence</li>
                     <li>Best Performance Award in Software Engineering</li>
                   </ul>
