@@ -18,14 +18,17 @@ function Education() {
           {/* First Card - Degree */}
           <Col md={4} className="project-card">
             <EducationCard
-              period="2021 - Present"
+              period="2021 - 2025"
               title="Sri Lanka Institute of Information Technology (SLIIT)"
               description={
                 <>
                   BSc (Hons) in Information Technology Specializing in Software
-                  Engineering.
+                  Engineering — First Class Honours.
                   <br />
-                  CGPA: 3.82/4.0.
+                  CGPA: 3.85 / 4.0
+                  <br />
+                  • Gold Medal for Academic Excellence
+                  <br />• Best Performance Award in Software Engineering
                 </>
               }
             />
