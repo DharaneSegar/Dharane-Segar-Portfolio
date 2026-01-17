@@ -7,19 +7,18 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "center" }}>
-            Hi Everyone, I am <span className="purple">Dharane Segar</span> from{" "}
-            <span className="purple">Colombo, Sri Lanka.</span>
+            Hi, I’m <span className="purple">Dharane Segar</span>, a{" "}
+            <span className="purple">Software Engineer</span> based in{" "}
+            <span className="purple">Colombo, Sri Lanka</span>.
             <br />
-            <br />I am a passionate and hardworking final-year Software
-            Engineering undergraduate at the Sri Lanka Institute of Information
-            Technology (SLIIT), pursuing a{" "}
+            <br />
+            I hold a{" "}
             <span className="purple">
-              BSc (Hons) in Information Technology specializing in Software
-              Engineering
+              BSc (Hons) in Information Technology (Software Engineering)
             </span>{" "}
-            with <span className="purple">First Class Honours</span>.
-            <br />
-            <br />I have been recognized with several academic achievements,
+            from the Sri Lanka Institute of Information Technology (SLIIT) with{" "}
+            <span className="purple">First Class Honors</span>. My academic
+            performance has been recognized through several achievements,
             including:
             <ul
               className="purple"
@@ -39,41 +38,47 @@ function AboutCard() {
             </ul>
             <br />
             <br />
-            From August 2023 to January 2024, I worked as a{" "}
+            I am currently working at{" "}
+            <span className="purple">GTN Tech</span> as a{" "}
+            <span className="purple">Software Engineer</span>, contributing as a
+            full-stack developer to the{" "}
+            <span className="purple">GTN Axis Admin Terminal</span>. This
+            enterprise-grade application is a core component of the{" "}
+            <span className="purple">GTN Trade</span> platform, designed to manage
+            users, customers, and institutions while providing administrators
+            with comprehensive control over the platform’s ecosystem.
+            <br />
+            <br />
+            Previously, I worked as a{" "}
             <span className="purple">Software Engineer Intern</span> at{" "}
             <span className="purple">WSO2</span>, where I contributed to backend
-            service development and API exposure using WSO2 Integration tools. I
-            also built reusable domain-specific demo solutions for industries
-            such as Banking and Airlines, and containerized them with Docker for
-            deployment.
+            service development and API exposure, built reusable domain-specific
+            demo solutions for industries such as banking and airlines, and
+            containerized applications using Docker.
             <br />
             <br />
-            My technical expertise spans{" "}
+            My technical experience spans{" "}
             <span className="purple">full-stack development</span>,{" "}
-            <span className="purple">mobile app development</span>,{" "}
-            <span className="purple">cloud technologies</span>, and{" "}
-            <span className="purple">machine learning</span>. I am proficient in
-            a variety of programming languages and frameworks, including the{" "}
-            <span className="purple">MERN stack</span>,{" "}
+            <span className="purple">backend systems</span>,{" "}
+            <span className="purple">cloud-based solutions</span>, and{" "}
+            <span className="purple">applied artificial intelligence</span>. I
+            enjoy working with technologies such as{" "}
             <span className="purple">Java</span>,{" "}
             <span className="purple">Spring Boot</span>,{" "}
-            <span className="purple">C#</span>,{" "}
-            <span className="purple">Flutter</span>,{" "}
-            <span className="purple">Kotlin</span>,{" "}
-            <span className="purple">Python</span>, and{" "}
-            <span className="purple">DBMS</span> technologies.
+            <span className="purple">React</span>,{" "}
+            <span className="purple">GraphQL</span>,{" "}
+            <span className="purple">Python</span>, and modern database systems.
             <br />
             <br />
-            Beyond academics, I have also completed several{" "}
-            <span className="purple">freelance and research projects</span>,
+            Alongside professional work, I have completed several{" "}
+            <span className="purple">academic, research, and personal projects</span>,
             gaining hands-on experience in designing scalable architectures,
-            deploying cloud-based solutions, and solving real-world problems
-            with innovation and creativity.
+            implementing data-driven solutions, and solving real-world problems.
             <br />
             <br />
-            With a strong commitment to continuous learning, teamwork, and
-            impactful problem-solving, I strive to build solutions that make a
-            meaningful difference in the real world.
+            I am driven by continuous learning, teamwork, and thoughtful
+            problem-solving, with a strong interest in building reliable and
+            impactful software solutions.
           </p>
         </blockquote>
       </Card.Body>
